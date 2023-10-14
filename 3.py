@@ -50,3 +50,4 @@ except ValueError:
 except KeyboardInterrupt:
     print("\nИгра завершина")
     exit()
+# "!"
