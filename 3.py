@@ -51,3 +51,4 @@ except KeyboardInterrupt:
     print("\nИгра завершина")
     exit()
 # "!"
+# "&"
