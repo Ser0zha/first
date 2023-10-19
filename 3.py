@@ -29,7 +29,7 @@ try:
                 print("\nТуда этого трансформера")
                 break
             elif rnd < 1:
-                print("ТЫ поступил глупо")
+                print("Ты поступил глупо")
                 break
             decepticon = bot(rnd)
             print(f"Робот сделал свой ход, осталось {decepticon} камней")
