@@ -1,0 +1,1 @@
+Read a vector of real numbers from a file. Write a function that removes a given number of numbers from the end of a vector! Check that the correct data is passed to the function?
