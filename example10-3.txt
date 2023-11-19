@@ -1,0 +1,8 @@
+Smirnov 2464
+Ivanov 2182
+Petrov 2485
+Aleksandrov 1449
+Ivanov 1944
+Krivov 2005
+Kolchin 2004
+Sedov 1001
