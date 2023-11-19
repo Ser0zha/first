@@ -1,19 +1,17 @@
 string = input(">>>").split()
-Stack = list()
+stack = list()
 i = 0
 if len(string) < 3:
     print("Введите строку более чет из одного символа")
     exit()
 for i in range(len(string) // 2):
-    Stack.append(string[i])
-# print(i)
+    stack.append(string[i])
 i += (len(string) % 2) + 1
-# print(">>>", i)
 for i in range(i, len(string)):
-    if Stack.pop() != string[i]:
-        print("Не палиндром")
+    if stack.pop() != string[i]:
+        print("Не полиндром")
         exit()
-print("Палиндром")
+print("Полиндром")
 
 # s = input()
 # if s == s[::-1]:
